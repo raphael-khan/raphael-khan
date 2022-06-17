@@ -17,5 +17,5 @@ React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Ap
 📫 Reach me: twitter.com/caneco
 ⚡️ Fun fact: I'm a huge fan of Harry Potter
 
-<img src="{https://github-readme-stats.vercel.app/api?username={raphael-khan}}" />
+<img src="https://github-readme-stats.vercel.app/api?username={raphael-khan}" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
