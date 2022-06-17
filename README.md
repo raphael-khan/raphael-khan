@@ -1,13 +1,9 @@
 Hi there 👋
 
-I am Raphael :pizza:, a Full Stack Developer based out of Virginia, United States. I like to think of myself coding ninja :ninja: :computer: 
+I am Raphael, a Full Stack Developer based out of Virginia, United States. I like to think of myself coding ninja :ninja: :computer: :pizza:
 
-Hi there 👋
-I'm a Full-Stack Developer working in Lisbon, Portugal.
-NOW
-✨ Crafted last Laracon Online website;
-🇵🇹 Planing the "Tuga-Co-Op";
-🍑 What about this?
+My super powers include: 
+:React: Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
 BIO
 🏢 I'm currently working at Medicare Portugal
 ⚙️ I use daily: .php, .js, .html, .css, .svg, .psd, .ai
