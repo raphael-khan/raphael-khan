@@ -1,6 +1,7 @@
 Hi there ! 👋
 
-I am Raphael, a growth-minded software engineer who enjoys collaborating, debugging, and turning a vision and an idea into meaningful software products. 
+I am Raphael, a growth-minded software engineer based out of Virginia, United States.
+I enjoy collaborating wih other developers, debugging, and turning a vision and an idea into meaningful software products. Some of the things I am passionate about include contributing to Open Source projects and learning more about Cloud Infrastruce. 
 
 My super powers include: 
 
