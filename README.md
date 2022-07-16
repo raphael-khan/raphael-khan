@@ -1,6 +1,6 @@
 Hi there ! 👋
 
-I am Raphael, a full stack developer that enjoys collaborating wih other developers, debugging, and turning a vision and an idea into meaningful software products. 
+I am Raphael, a full stack developer that enjoys collaborating with other developers, debugging, and turning a vision and an idea into meaningful software products. 
 
 I am currently working on learning more about Cloud Infrastructure and completing my AWS Developer certfication. In my spare time, I contribute to Open Source projects that i find interesting. 
 
