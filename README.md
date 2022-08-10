@@ -1,7 +1,7 @@
 Hi there. 👋
 
 I am Raphael, a full stack developer that enjoys collaborating with other developers, debugging, and turning a vision and an idea into meaningful software products. 
-Some of the new things I am currrently learning include AWS cloud infrastrucure and Docker containerization.  
+Some of the new things I am currrently learning include AWS cloud infrastrucure and Docker containerization
 
 Tech stack / frameworks I have worked with so far includes: 
 
